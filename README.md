@@ -1,1 +1,1 @@
-# THP-scrappeur-fou
+# This is a "Crazy Scraper"
