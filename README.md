@@ -1,1 +1,1 @@
-# This is a "Crazy Scraper"
+# This is a "Crazy Scraper" coded in Ruby
